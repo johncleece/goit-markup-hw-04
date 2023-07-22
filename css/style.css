@@ -9,6 +9,7 @@
     --slate-color: #434455;
     --lightslate-color: #8E8F99;
     --green-color: #31D0AA;
+    --heading-one: 56px;
     --heading-two: 36px;
     --heading-three: 20px;
     --paragraph-text-size: 16px;
@@ -265,6 +266,10 @@ a {
     border-radius: 4px;
     background-color: var(--cloud-color, #F4F4FD);
     margin-bottom: 8px;
+}
+
+.benefits-icon {
+    cursor: auto;
 }
 
 
